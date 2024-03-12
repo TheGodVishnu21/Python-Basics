@@ -1,4 +1,4 @@
-a = 10
+a = 10 
 b = 3
 
 print(a + b)  # Addition: 13
