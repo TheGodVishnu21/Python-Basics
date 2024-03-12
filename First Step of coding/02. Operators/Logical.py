@@ -1,4 +1,4 @@
-is_raining = True
+is_raining = True 
 is_sunny = False
 
 print(is_raining and is_sunny)  # AND: False
