@@ -1,0 +1,21 @@
+In Python, punctuators are symbols or characters used to structure code and represent certain operations also known as seperators. Here are some common punctuators used in Python:
+
+1. **Parentheses `(` `)`**: Used for grouping expressions, calling functions, defining tuples, and passing arguments.
+
+2. **Square Brackets `[` `]`**: Used for defining lists and accessing elements by index.
+
+3. **Curly Braces `{` `}`**: Used for defining dictionaries and sets, as well as defining code blocks in some contexts (like in loops or conditional statements).
+
+4. **Comma `,`**: Used to separate items in tuples, lists, function arguments, and dictionary key-value pairs.
+
+5. **Colon `:`**: Used to denote the start of an indented code block in control flow statements (like if, for, while, etc.), as well as in dictionary key-value pairs and slice notation.
+
+6. **Period `.`**: Used for accessing attributes and methods of objects.
+
+7. **Semicolon `;`**: Used to separate statements on the same line, although it's not commonly used in Python.
+
+8. **Ellipsis `...`**: Used as a placeholder to indicate incomplete code in interactive mode or as a representation of a slice continuation.
+
+9. **Backslash `\`**: Used for line continuation in cases where a single logical line extends over multiple physical lines.
+
+10. **Double Colon `::`**: Used in type hints for specifying type annotations in function signatures and variable definitions.
