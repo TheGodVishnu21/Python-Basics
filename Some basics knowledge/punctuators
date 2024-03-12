@@ -4,7 +4,7 @@ In Python, punctuators are symbols or characters used to structure code and repr
 
 2. **Square Brackets `[` `]`**: Used for defining lists and accessing elements by index.
 
-3. **Curly Braces `{` `}`**: Used for defining dictionaries and sets, as well as defining code blocks in some contexts (like in loops or conditional statements).
+3. **Curly Braces `{` `}`**: Used for defining dictionaries and sets, as well as defining code blocks in some contexts (like in loops or conditional statements). 
 
 4. **Comma `,`**: Used to separate items in tuples, lists, function arguments, and dictionary key-value pairs.
 
