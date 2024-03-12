@@ -24,7 +24,7 @@ Keywords is essential for any beginner in Python programming. Keywords are reser
 
 12. **del**: This is used to delete variables, items from lists, or attributes from objects.
 
-13. **in, is**: These are used for membership testing and identity testing, respectively.
+13. **in, is**: These are used for membership testing and identity testing, respectively. 
 
 14. **with**: This is used for resource management and context management, ensuring proper handling of resources such as files or network connections.
 
