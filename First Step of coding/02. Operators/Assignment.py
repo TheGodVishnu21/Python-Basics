@@ -1,4 +1,4 @@
-total = 0
+total = 0 
 total += 5  # Addition Assignment: total = total + 5
 total -= 2  # Subtraction Assignment: total = total - 2
 total *= 3  # Multiplication Assignment: total = total * 3
