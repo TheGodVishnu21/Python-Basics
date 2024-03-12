@@ -1,0 +1,9 @@
+Selection control statements in Python are used to execute specific blocks of code based on certain conditions. There are two main types of selection control statements:
+
+1. **if Statement**: The `if` statement is used to execute a block of code only if a specified condition is true. It can be followed by an optional `elif` (short for "else if") statement to check additional conditions, and an optional `else` statement to execute a block of code if none of the conditions are true.
+
+2. **if-else Statement**: The `if-else` statement combines the `if` statement with an `else` statement. If the condition specified in the `if` statement is true, the block of code under the `if` statement is executed. Otherwise, the block of code under the `else` statement is executed.
+
+These selection control statements allow you to control the flow of your Python program based on various conditions. They help you make decisions and execute specific actions accordingly.
+
+Additionally, you can use nested `if` statements to handle more complex conditions by placing one `if` statement inside another.
