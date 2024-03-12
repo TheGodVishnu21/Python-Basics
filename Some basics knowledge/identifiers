@@ -40,4 +40,4 @@ add_numbers = lambda x, y: x + y
 # @my_variable = 20  # SyntaxError: can't assign to operator (contains special character)
 ```
 
-In Python, it's important to choose meaningful and descriptive identifiers to make your code more readable and understandable.
+In Python, it's important to choose meaningful and descriptive identifiers to make your code more readable and understandable. 
