@@ -1,7 +1,7 @@
 In Python, operators are special symbols or characters used to perform operations on variables and values. Here's a brief overview of some common types of operators in Python:
 
 1. **Arithmetic Operators**: Used for mathematical calculations.
-   - Addition `+`
+   - Addition `+` 
    - Subtraction `-`
    - Multiplication `*`
    - Division `/`
