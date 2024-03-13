@@ -8,4 +8,4 @@ while i<=n:
 if count==2:
     print("No. is Prime.")
 else:
-    print("No. is not Prime.")
+    print("No. is not Prime.") 
