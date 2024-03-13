@@ -11,8 +11,8 @@ Conditional Statements:
 
 First Step of Coding:
 01. Print
-    - Hello
-    - Number
+   - Hello
+   - Number
     
 02. Operators
    - Arithmetic
