@@ -2,7 +2,7 @@
 Basics of Python for beginners.
 Short Revision for students and programmers.
 
-Conditional Statements:
+### Conditional Statements:
 01. Odd or even
 02. Postive, Negative or Zero
 03. Max btw two nos
