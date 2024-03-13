@@ -1,37 +1,37 @@
 Keywords is essential for any beginner in Python programming. Keywords are reserved words that have special meanings and purposes within the Python language. You cannot use keywords as identifiers (such as variable names, function names, etc.) in your Python code. Here's a brief explanation of each keyword:
 
-1. **False, True, None**: These are Boolean values representing false, true, and a null value, respectively.
+1. False, True, None: These are Boolean values representing false, true, and a null value, respectively.
 
-2. **and, or, not**: These are logical operators used for Boolean operations.
+2. and, or, not: These are logical operators used for Boolean operations.
 
-3. **if, else, elif**: These are conditional statements used for decision-making in the code execution flow.
+3. if, else, elif: These are conditional statements used for decision-making in the code execution flow.
 
-4. **while, for, break, continue, pass**: These are used for loop control and flow control within loops.
+4. while, for, break, continue, pass: These are used for loop control and flow control within loops.
 
-5. **def, return**: These are used for defining functions and returning values from functions, respectively.
+5. def, return: These are used for defining functions and returning values from functions, respectively.
 
-6. **class, self**: These are used for defining and working with classes and objects in object-oriented programming.
+6. class, self: These are used for defining and working with classes and objects in object-oriented programming.
 
-7. **try, except, finally, raise**: These are used for exception handling, allowing you to handle errors gracefully in your code.
+7. try, except, finally, raise: These are used for exception handling, allowing you to handle errors gracefully in your code.
 
-8. **import, from, as**: These are used for importing modules and symbols from modules into your Python code.
+8. import, from, as: These are used for importing modules and symbols from modules into your Python code.
 
-9. **global, nonlocal**: These are used for variable scope management, allowing you to define variables within different scopes.
+9. global, nonlocal: These are used for variable scope management, allowing you to define variables within different scopes.
 
-10. **lambda**: This is used for creating anonymous functions, also known as lambda functions, which are small, inline functions.
+10. lambda: This is used for creating anonymous functions, also known as lambda functions, which are small, inline functions.
 
-11. **yield**: This is used in generator functions to yield a value to the caller, allowing the function to produce a series of values over time.
+11. yield: This is used in generator functions to yield a value to the caller, allowing the function to produce a series of values over time.
 
-12. **del**: This is used to delete variables, items from lists, or attributes from objects.
+12. del: This is used to delete variables, items from lists, or attributes from objects.
 
-13. **in, is**: These are used for membership testing and identity testing, respectively. 
+13. in, is: These are used for membership testing and identity testing, respectively. 
 
-14. **with**: This is used for resource management and context management, ensuring proper handling of resources such as files or network connections.
+14. with: This is used for resource management and context management, ensuring proper handling of resources such as files or network connections.
 
-15. **assert**: This is used for debugging purposes to assert that certain conditions are true.
+15. assert: This is used for debugging purposes to assert that certain conditions are true.
 
-16. **async, await**: These are used for asynchronous programming, allowing you to define asynchronous functions and await asynchronous operations.
+16. async, await: These are used for asynchronous programming, allowing you to define asynchronous functions and await asynchronous operations.
 
-17. **from __future__ import ...**: This is used to import features from future versions of Python into current versions, enabling you to use newer features in older Python versions.
+17. from __future__ import ...: This is used to import features from future versions of Python into current versions, enabling you to use newer features in older Python versions.
 
 Understanding these keywords and their usage is fundamental for writing Python code effectively and efficiently. As you continue to learn Python, you'll become more familiar with these keywords and how they're used in practice.
