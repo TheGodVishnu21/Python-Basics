@@ -10,4 +10,3 @@ else:
     print("Max=", c)
 
 #Minimum is also same as this you can do it by your self.
-#also find Mid number between three number
