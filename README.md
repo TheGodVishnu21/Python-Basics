@@ -10,7 +10,7 @@ Short Revision for students and programmers.
 05. Mid no. btw three nos
 
 ### First Step of Coding:
-01. Print
+## 01. Print
    - Hello
    - Number
     
