@@ -1,0 +1,9 @@
+Looping or iterative control statements in Python are used to execute a block of code repeatedly as long as a specified condition is true. There are several types of loop statements in Python:
+
+1. for Loop: The `for` loop is used to iterate over a sequence (such as a list, tuple, string, or range) or other iterable objects. It executes a block of code for each item in the sequence.
+
+2. while Loop: The `while` loop is used to repeatedly execute a block of code as long as a specified condition is true. It continues iterating until the condition becomes false.
+
+3. Nested Loops: You can also use loops inside other loops, known as nested loops, to create more complex iteration patterns. This allows you to iterate over multiple sequences or perform repetitive tasks with multiple levels of control.
+
+Looping statements allow you to automate repetitive tasks and iterate over data structures to perform various operations. They are essential for handling tasks that involve processing multiple elements or executing code until a certain condition is met.
